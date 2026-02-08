@@ -1,0 +1,7 @@
+{
+  "name": "Meseros C.A.V. - Servicios Profesionales",
+  "description": "Landing page de alta conversión para servicios profesionales de meseros, con asistente inteligente basado en IA para planeación de eventos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
